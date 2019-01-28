@@ -1,0 +1,28 @@
+{
+  "name": "furry-disco",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.4.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonmertens/furry-disco.git"
+  },
+  "author": "S. Mertens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonmertens/furry-disco/issues"
+  },
+  "homepage": "https://github.com/sharonmertens/furry-disco#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.4.7"
+  }
+}
